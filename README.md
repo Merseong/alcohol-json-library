@@ -30,11 +30,11 @@ Made by 머성
             "classification": (string 술의 소분류),
             "alcName": (string 술 이름),
             "alcDegree": (float 술의 도수),
-            "alcWonPrice": (int 최근에 산 원화 가격 / 책정불가시 -1),
-            "alcImage": (술의 이미지 주소인데 가능한지 모름),
             "alcMade": (string 술을 만든 양조장 또는 사람),
             "alcSite": (string 술의 공식 홈페이지 또는 구매처),
-            "private": (평가들의 평균값을 가져와서 저장해두는 곳){
+            "alcWonPrice": (int 최근에 산 원화 가격 / 책정불가시 -1),
+            "alcImage": (string 술의 이미지 주소인데 가능한지 모름),
+            "private":{ (평가들의 평균값을 가져와서 저장해두는 곳)
                 "score": (int 적당한 점수 / max min 없음),
                 "taste": [(int 단, 짠, 신, 맵, 감칠)],
                 "again": (bool 다시 마실지)
@@ -44,3 +44,12 @@ Made by 머성
     ]
 }
 ```
+
+술의 소분류는  
+(classification) + (category) 시 자연스럽게 만든다.
+
+    예시) "생" + "막걸리" -> "생 막걸리"
+
+## 양조장
+
+brewery.json에는 양조장에 대한 정보를 담는다.
