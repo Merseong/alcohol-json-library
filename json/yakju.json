@@ -1,10 +1,98 @@
 {
     "$schema": "../schema.json",
-    "category": "",
+    "category": "yakju",
     "alcList":
     [
         {
-            "classification": ""
+            "classification": "",
+            "alcName": "민들레대포",
+            "alcDegree": 13,
+            "alcMade": "배상면주가",
+            "alcWonPrice": 1900,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": true
+            }
+        },
+        {
+            "classification": "매실",
+            "alcName": "매취순",
+            "alcDegree": -1,
+            "alcMade": "보해양조",
+            "alcWonPrice": -1,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": true
+            }
+        },
+        {
+            "classification": "발효",
+            "alcName": "니모메",
+            "alcDegree": 11,
+            "alcMade": "제주샘",
+            "alcWonPrice": 11160,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": true
+            }
+        },
+        {
+            "classification": "매실",
+            "alcName": "설중매 골드",
+            "alcDegree": -1,
+            "alcMade": "롯데주류",
+            "alcWonPrice": -1,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": false
+            }
+        },
+        {
+            "classification": "",
+            "alcName": "심술 12",
+            "alcDegree": 12,
+            "alcMade": "배상면주가",
+            "alcWonPrice": -1,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": true
+            }
+        },
+        {
+            "classification": "매실",
+            "alcName": "하늘담",
+            "alcDegree": 16,
+            "alcMade": "순천시",
+            "alcWonPrice": -1,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": false
+            }
+        },
+        {
+            "classification": "매실",
+            "alcName": "매화수",
+            "alcDegree": 14,
+            "alcMade": "하이트진로",
+            "alcWonPrice": -1,
+            "alcImage": "../img/",
+            "private": {
+                "score": -1,
+                "taste": [-1,-1,-1,-1,-1,-1],
+                "again": false
+            }
         }
     ]
 }
