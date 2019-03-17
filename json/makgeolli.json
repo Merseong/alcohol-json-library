@@ -1,5 +1,5 @@
 {
-    "$schema": "./schema.json",
+    "$schema": "../schema.json",
     "category":"makgeolli", 
     "alcList":
     [
@@ -12,7 +12,7 @@
             "alcImage":"../img/image1.png", 
             "private":{
                 "score":-1, 
-                "taste":[-1, -1, -1, -1, -1], 
+                "taste":[-1, -1, -1, -1, -1, -1], 
                 "again":true
             }
         }, 
@@ -22,10 +22,10 @@
             "alcDegree":-1,
             "alcMade":"금정산성토산주", 
             "alcWonPrice":2000, 
-            "alcImage":"", 
+            "alcImage":"../img/", 
             "private":{
                 "score":-1, 
-                "taste":[-1, -1, -1, -1, -1],
+                "taste":[-1, -1, -1, -1, -1, -1],
                 "again":true
             }       
         },
@@ -35,10 +35,10 @@
             "alcDegree":-1,
             "alcMade":"배금도가",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -48,10 +48,10 @@
             "alcDegree":-1,
             "alcMade":"중원당",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -61,10 +61,10 @@
             "alcDegree":-1,
             "alcMade":"이백양조장",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -74,10 +74,10 @@
             "alcDegree":-1,
             "alcMade":"고택주조",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -87,10 +87,10 @@
             "alcDegree":8,
             "alcMade":"기다림",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -100,10 +100,10 @@
             "alcDegree":-1,
             "alcMade":"이화백주",
             "alcWonPrice":12000,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }  
         },
@@ -113,10 +113,10 @@
             "alcDegree":-1,
             "alcMade":"배상면주가",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{   
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true
             }
         },
@@ -126,10 +126,10 @@
             "alcDegree":-1,
             "alcMade":"지평주조",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":false
             }
         },
@@ -139,10 +139,10 @@
             "alcDegree":-1,
             "alcMade":"술샘",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":false   
             }
         },
@@ -152,10 +152,10 @@
             "alcDegree":10.8,
             "alcMade":"술샘",
             "alcWonPrice":-1,
-            "alcImage":"",
+            "alcImage":"../img/",
             "private":{
                 "score":-1,
-                "taste":[-1,-1,-1,-1,-1],
+                "taste":[-1,-1,-1,-1,-1, -1],
                 "again":true   
             }
         }

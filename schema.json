@@ -1,0 +1,60 @@
+{
+    "title":"Alcohol list schema",
+    "description":"schema about alc list data for each category",
+    "type":"object",
+    "properties":
+    {
+        "category": {
+            "description":"large category of alcohol",
+            "type":"string"},
+        "alcList":
+        {
+            "type":"array",
+            "items":
+            {
+                "title":"Alcohol schema",
+                "description":"schema about indivisual alcohol",
+                "properties":
+                {
+                    "classification": {
+                        "description":"small classification",
+                        "type":"string"},
+                    "alcName": {
+                        "description":"name of alcohol",
+                        "type":"string"},
+                    "alcDegree": {
+                        "description":"alcohol content of alcohol",
+                        "type":"number"},
+                    "alcMade": {
+                        "description":"name of brewery",
+                        "type":"string"},
+                    "alcWonPrice": {
+                        "description":"price of alcohol when you buy it",
+                        "type":"integer"},
+                    "alcImage": {
+                        "description":"what name of image for this alcohol",
+                        "type":"string",
+                        "pattern":"^../img/"},
+                    "private": {
+                        "description":"data to save average subjective data",
+                        "type":"object",
+                        "properties":{
+                            "score": {"type":"integer"},
+                            "taste": 
+                            {
+                                "description":"sweet bitter salty sour hot richness",
+                                "type":"array",
+                                "minItems":6,
+                                "maxItems":6,
+                                "items": {"type":"integer"}
+                            },
+                            "again": {
+                                "description":"do you want to drink this alcohol again",
+                                "type":"boolean"}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
