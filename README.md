@@ -14,8 +14,8 @@ Made by 머성
 * makgeolli - 막걸리
 * cheongju - 청주
 * sake - 사케
-* whiskey - 위스키
-* non-whiskey - 보드카, 진, 럼, 데낄라 등등
+* whisky - 위스키
+* non-whisky - 보드카, 진, 럼, 데낄라 등등
 * liqueur - 위 둘에 해당하지 않는 리큐르
 * wine - 와인
 
@@ -29,18 +29,16 @@ Made by 머성
         {
             "classification": (string 술의 소분류),
             "alcName": (string 술 이름),
-            "alcPrice": (int 최근에 산 가격 / 책정불가시 -1),
+            "alcDegree": (float 술의 도수),
+            "alcWonPrice": (int 최근에 산 원화 가격 / 책정불가시 -1),
             "alcImage": (술의 이미지 주소인데 가능한지 모름),
             "alcMade": (string 술을 만든 양조장 또는 사람),
             "alcSite": (string 술의 공식 홈페이지 또는 구매처),
-            "private":
-            [
-                {
-                    "score": (int 적당한 점수 / max min 없음),
-                    "taste": [(int 단, 짠, 신, 맵, 감칠)],
-                    "again": (bool 다시 마실지)
-                }
-            ]
+            "private": (평가들의 평균값을 가져와서 저장해두는 곳){
+                "score": (int 적당한 점수 / max min 없음),
+                "taste": [(int 단, 짠, 신, 맵, 감칠)],
+                "again": (bool 다시 마실지)
+            }
         },
         ...
     ]
