@@ -12,8 +12,8 @@ Made by 머성
 * soju - 소주
 * beer - 맥주
 * makgeolli - 막걸리
-* cheongju - 청주
-* sake - 사케
+* yakju - 약주, 법주
+* cheongju - 청주, 사케
 * whisky - 위스키
 * non-whisky - 보드카, 진, 럼, 데낄라 등등
 * liqueur - 위 둘에 해당하지 않는 리큐르
@@ -31,7 +31,6 @@ Made by 머성
             "alcName": (string 술 이름),
             "alcDegree": (float 술의 도수),
             "alcMade": (string 술을 만든 양조장 또는 사람),
-            "alcSite": (string 술의 공식 홈페이지 또는 구매처),
             "alcWonPrice": (int 최근에 산 원화 가격 / 책정불가시 -1),
             "alcImage": (string 술의 이미지 주소인데 가능한지 모름),
             "private":{ (평가들의 평균값을 가져와서 저장해두는 곳)

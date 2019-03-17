@@ -1,4 +1,5 @@
 {
+    "$schema": "./schema.json",
     "category":"makgeolli", 
     "alcList":
     [
@@ -8,7 +9,7 @@
             "alcDegree":-1,
             "alcMade":"복순도가", 
             "alcWonPrice":12000, 
-            "alcImage":"(술의 이미지 주소인데 가능한지 모름)", 
+            "alcImage":"../img/image1.png", 
             "private":{
                 "score":-1, 
                 "taste":[-1, -1, -1, -1, -1], 
