@@ -115,7 +115,9 @@
             "alcName":"붉은원숭이",
             "alcDegree":-1,
             "alcMade":"술샘",
-            "additional": {},
+            "additional": {
+                "area": "경기도 용인"
+            },
             "review":{
                 "again":false   
             }
@@ -125,9 +127,23 @@
             "alcName":"술취한원숭이",
             "alcDegree":10.8,
             "alcMade":"술샘",
-            "additional": {},
+            "additional": {
+                "area": "경기도 용인"
+            },
             "review":{
                 "again":true   
+            }
+        },
+        {
+            "classification": "기타 탁주",
+            "alcName": "귤로만",
+            "alcDegree": 10,
+            "alcMade": "제주와이너리",
+            "additional": {
+                "area": "제주"
+            },
+            "review": {
+                "again": true
             }
         }
     ]

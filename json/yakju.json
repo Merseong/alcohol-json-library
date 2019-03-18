@@ -32,7 +32,7 @@
             "alcMade": "제주샘",
             "additional": {
                 "price": 11160,
-                "area": "제주도"
+                "area": "제주"
             },
             "review": {
                 "again": true
@@ -54,7 +54,7 @@
             "alcDegree": 12,
             "alcMade": "배상면주가",
             "additional": {
-                "area": "경기도 포천시"
+                "area": "경기도 포천"
             },
             "review": {
                 "again": true
