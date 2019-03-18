@@ -31,11 +31,16 @@ Made by 머성
             "alcName": (string 술 이름),
             "alcDegree": (float 술의 도수),
             "alcMade": (string 술을 만든 양조장 또는 사람),
-            "alcWonPrice": (int 최근에 산 원화 가격 / 책정불가시 -1),
-            "alcImage": (string 술의 이미지 주소인데 가능한지 모름),
-            "private":{ (평가들의 평균값을 가져와서 저장해두는 곳)
+            "additonal":{
+                "price": (int 최근에 산 원화 가격 / 책정불가시 -1),
+                "image": (string 술의 이미지 주소인데 가능한지 모름),
+                "area": (string 술의 생산지),
+                "krName": (string 외국 술일 경우 한글이름),
+                "year": (int 병입연도 / 몇년산),
+            },
+            "review":{ (평가들의 평균값을 가져와서 저장해두는 곳)
                 "score": (int 적당한 점수 / max min 없음),
-                "taste": [(int 단, 짠, 신, 맵, 감칠)],
+                "taste": [(int 단, 쓴, 짠, 신, 맵, 감칠)],
                 "again": (bool 다시 마실지)
             }
         },
