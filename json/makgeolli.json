@@ -8,11 +8,10 @@
             "alcName":"복순도가", 
             "alcDegree":-1,
             "alcMade":"복순도가", 
-            "alcWonPrice":12000, 
-            "alcImage":"../img/image1.png", 
-            "private":{
-                "score":-1, 
-                "taste":[-1, -1, -1, -1, -1, -1], 
+            "additional": {
+                "price":12000
+            },
+            "review":{
                 "again":true
             }
         }, 
@@ -21,11 +20,11 @@
             "alcName":"금정산성 막걸리", 
             "alcDegree":-1,
             "alcMade":"금정산성토산주", 
-            "alcWonPrice":2000, 
-            "alcImage":"../img/", 
-            "private":{
-                "score":-1, 
-                "taste":[-1, -1, -1, -1, -1, -1],
+            "additional": {
+                "area": "부산",
+                "price":2000
+            },
+            "review":{
                 "again":true
             }       
         },
@@ -34,11 +33,8 @@
             "alcName":"김천 배금도가",
             "alcDegree":-1,
             "alcMade":"배금도가",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
@@ -47,24 +43,18 @@
             "alcName":"여인주",
             "alcDegree":-1,
             "alcMade":"중원당",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
         {
             "classification":"석탄주",
             "alcName":"이백 석탄주",
-            "alcDegree":-1,
+            "alcDegree":6,
             "alcMade":"이백양조장",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
@@ -73,11 +63,8 @@
             "alcName":"고택 찹쌀생주",
             "alcDegree":-1,
             "alcMade":"고택주조",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
@@ -86,11 +73,8 @@
             "alcName":"기다림25",
             "alcDegree":8,
             "alcMade":"기다림",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
@@ -99,11 +83,10 @@
             "alcName":"이화백주",
             "alcDegree":-1,
             "alcMade":"이화백주",
-            "alcWonPrice":12000,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {
+                "price": 12000
+            },
+            "review":{
                 "again":true
             }  
         },
@@ -112,11 +95,8 @@
             "alcName":"느린마을 막걸리",
             "alcDegree":-1,
             "alcMade":"배상면주가",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{   
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true
             }
         },
@@ -125,11 +105,8 @@
             "alcName":"지평생 쌀막걸리",
             "alcDegree":-1,
             "alcMade":"지평주조",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":false
             }
         },
@@ -138,11 +115,8 @@
             "alcName":"붉은원숭이",
             "alcDegree":-1,
             "alcMade":"술샘",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":false   
             }
         },
@@ -151,11 +125,8 @@
             "alcName":"술취한원숭이",
             "alcDegree":10.8,
             "alcMade":"술샘",
-            "alcWonPrice":-1,
-            "alcImage":"../img/",
-            "private":{
-                "score":-1,
-                "taste":[-1,-1,-1,-1,-1, -1],
+            "additional": {},
+            "review":{
                 "again":true   
             }
         }

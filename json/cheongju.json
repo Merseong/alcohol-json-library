@@ -8,11 +8,8 @@
             "alcName": "청하",
             "alcDegree": 13,
             "alcMade": "롯데주류",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {},
+            "review": {
                 "again": false
             }
         },
@@ -21,11 +18,8 @@
             "alcName": "백화수복",
             "alcDegree": 13,
             "alcMade": "롯데주류",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {},
+            "review": {
                 "again": false
             }
         }

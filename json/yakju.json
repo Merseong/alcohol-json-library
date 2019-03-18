@@ -8,11 +8,10 @@
             "alcName": "민들레대포",
             "alcDegree": 13,
             "alcMade": "배상면주가",
-            "alcWonPrice": 1900,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {
+                "price": 1900
+            },
+            "review": {
                 "again": true
             }
         },
@@ -21,11 +20,8 @@
             "alcName": "매취순",
             "alcDegree": -1,
             "alcMade": "보해양조",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {},
+            "review": {
                 "again": true
             }
         },
@@ -34,11 +30,11 @@
             "alcName": "니모메",
             "alcDegree": 11,
             "alcMade": "제주샘",
-            "alcWonPrice": 11160,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {
+                "price": 11160,
+                "area": "제주도"
+            },
+            "review": {
                 "again": true
             }
         },
@@ -47,11 +43,8 @@
             "alcName": "설중매 골드",
             "alcDegree": -1,
             "alcMade": "롯데주류",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {},
+            "review": {
                 "again": false
             }
         },
@@ -60,11 +53,10 @@
             "alcName": "심술 12",
             "alcDegree": 12,
             "alcMade": "배상면주가",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {
+                "area": "경기도 포천시"
+            },
+            "review": {
                 "again": true
             }
         },
@@ -73,11 +65,10 @@
             "alcName": "하늘담",
             "alcDegree": 16,
             "alcMade": "순천시",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {
+                "area": "전라남도 순천"
+            },
+            "review": {
                 "again": false
             }
         },
@@ -86,11 +77,8 @@
             "alcName": "매화수",
             "alcDegree": 14,
             "alcMade": "하이트진로",
-            "alcWonPrice": -1,
-            "alcImage": "../img/",
-            "private": {
-                "score": -1,
-                "taste": [-1,-1,-1,-1,-1,-1],
+            "additional": {},
+            "review": {
                 "again": false
             }
         }
