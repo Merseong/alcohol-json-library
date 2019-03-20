@@ -37,11 +37,13 @@ Made by 머성
                 "area": (string 술의 생산지),
                 "krName": (string 외국 술일 경우 한글이름),
                 "year": (int 병입연도 / 몇년산),
+                "officialTag": [(string 실제 공식적으로 언급된 술을 소개하는 형용사들 array / #으로 시작함)]
             },
             "review":{ (평가들의 평균값을 가져와서 저장해두는 곳)
                 "score": (int 적당한 점수 / max min 없음),
                 "taste": [(int 단, 쓴, 짠, 신, 맵, 감칠)],
-                "again": (bool 다시 마실지)
+                "again": (bool 다시 마실지),
+                "userTag": [(string 유저가 술을 소개하는 형용사들 array / 많이 언급되는 순서 / #으로 시작함)]
             }
         },
         ...
