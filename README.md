@@ -31,19 +31,20 @@ Made by 머성
             "alcName": (string 술 이름),
             "alcDegree": (float 술의 도수),
             "alcMade": (string 술을 만든 양조장 또는 사람),
-            "additonal":{
+            "additonal":{ (실제 객관적인 술에 대한 정보를 저장해두는 곳)
                 "price": (int 최근에 산 원화 가격 / 책정불가시 -1),
                 "image": (string 술의 이미지 주소인데 가능한지 모름),
                 "area": (string 술의 생산지),
                 "krName": (string 외국 술일 경우 한글이름),
                 "year": (int 병입연도 / 몇년산),
-                "officialTag": [(string 실제 공식적으로 언급된 술을 소개하는 형용사들 array / #으로 시작함)]
+                "officialTag": [(string 실제 공식적으로 언급된 술을 소개하는 단어 및 형용사들의 array / #으로 시작함)],
+                "siteLink": (string 이 술에 대한 설명이 있는 웹사이트의 주소)
             },
             "review":{ (평가들의 평균값을 가져와서 저장해두는 곳)
                 "score": (int 적당한 점수 / max min 없음),
                 "taste": [(int 단, 쓴, 짠, 신, 맵, 감칠)],
                 "again": (bool 다시 마실지),
-                "userTag": [(string 유저가 술을 소개하는 형용사들 array / 많이 언급되는 순서 / #으로 시작함)]
+                "userTag": [(string 유저가 술을 소개하는 단어 및 형용사들의 array / 많이 언급되는 순서 / #으로 시작함)]
             }
         },
         ...

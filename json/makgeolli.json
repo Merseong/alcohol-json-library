@@ -9,7 +9,10 @@
             "alcDegree":-1,
             "alcMade":"복순도가", 
             "additional": {
-                "price":12000
+                "price":12000,
+                "siteLink": "http://www.boksoon.com/main",
+                "officialTag": ["#전통 방식", "#천연 탄산", "#샴페인과 같은", "#청량감을 주는"],
+                "area": "울산"
             },
             "review":{
                 "again":true
@@ -22,7 +25,9 @@
             "alcMade":"금정산성토산주", 
             "additional": {
                 "area": "부산",
-                "price":2000
+                "price":2000,
+                "siteLink": "https://sanmak.kr/bbs/content.php?co_id=sub21",
+                "officialTag": ["#전통 방식", "#자연산 누룩", "#은은한", "#구수한", "#대한민국 민속주 1호"]
             },
             "review":{
                 "again":true
@@ -33,17 +38,25 @@
             "alcName":"김천 배금도가",
             "alcDegree":-1,
             "alcMade":"배금도가",
-            "additional": {},
+            "additional": {
+                "officialTag": ["#전통누룩", "#청량감", "#감칠맛", "#무첨가제"],
+                "area": "경상북도 김천",
+                "siteLink": "https://smartstore.naver.com/dogar/products/3645168401"
+            },
             "review":{
                 "again":true
             }
         },
         {
             "classification":"생",
-            "alcName":"여인주",
+            "alcName":"여인 탁주",
             "alcDegree":-1,
             "alcMade":"중원당",
-            "additional": {},
+            "additional": {
+                "siteLink": "http://www.xn--v42bo8x7wc.com/goods/view?no=13",
+                "area": "충청북도 충주",
+                "price": 20000
+            },
             "review":{
                 "again":true
             }
@@ -61,9 +74,13 @@
         {
             "classification":"기타 탁주",
             "alcName":"고택 찹쌀생주",
-            "alcDegree":-1,
+            "alcDegree":13.5,
             "alcMade":"고택주조",
-            "additional": {},
+            "additional": {
+                "price": 5000,
+                "siteLink": "http://www.8824588.com/info.php",
+                "officialTag": ["#전통 방식", "#찹쌀"]
+            },
             "review":{
                 "again":true
             }
@@ -73,7 +90,11 @@
             "alcName":"기다림25",
             "alcDegree":8,
             "alcMade":"기다림",
-            "additional": {},
+            "additional": {
+                "siteLink": "http://gidarim.co.kr/bbs/board.php?bo_table=drink&wr_id=7",
+                "officialTag": ["#숙취 없는", "#과일풍의", "#신맛", "#쌉싸래함", "#드라이한", "#단맛의", "#깔끔한"],
+                "price": 9900
+            },
             "review":{
                 "again":true
             }
@@ -81,10 +102,11 @@
         {
             "classification":"생",
             "alcName":"이화백주",
-            "alcDegree":-1,
+            "alcDegree":6,
             "alcMade":"이화백주",
             "additional": {
-                "price": 12000
+                "price": 12000,
+                "siteLink": "http://ehwaju.com/"
             },
             "review":{
                 "again":true
@@ -95,7 +117,11 @@
             "alcName":"느린마을 막걸리",
             "alcDegree":-1,
             "alcMade":"배상면주가",
-            "additional": {},
+            "additional": {
+                "siteLink": "http://www.soolsool.co.kr/neurin/ricewine01.asp",
+                "area": "경기도 포천",
+                "officialTag": ["#아스파탐 無", "#맛은 시간에 따라 변화"]
+            },
             "review":{
                 "again":true
             }
@@ -103,9 +129,13 @@
         {
             "classification":"생",
             "alcName":"지평생 쌀막걸리",
-            "alcDegree":-1,
+            "alcDegree":5,
             "alcMade":"지평주조",
-            "additional": {},
+            "additional": {
+                "siteLink": "http://www.jpjujo.com/content.php?pagecode=m21",
+                "officialTag": ["#깔끔함", "#부드러움"],
+                "area": "경기도 양평"
+            },
             "review":{
                 "again":false
             }
@@ -116,7 +146,9 @@
             "alcDegree":-1,
             "alcMade":"술샘",
             "additional": {
-                "area": "경기도 용인"
+                "area": "경기도 용인",
+                "siteLink": "http://sulseam.co.kr/goods/view?no=12",
+                "officialTag": ["#붉은색", "#무첨가", "#단맛", "#바디감"]
             },
             "review":{
                 "again":false   
@@ -128,7 +160,9 @@
             "alcDegree":10.8,
             "alcMade":"술샘",
             "additional": {
-                "area": "경기도 용인"
+                "area": "경기도 용인",
+                "siteLink": "http://sulseam.co.kr/goods/view?no=2",
+                "officialTag": ["#붉은색", "#무첨가", "#청량감", "#단맛", "#바디감"]
             },
             "review":{
                 "again":true   
@@ -140,7 +174,9 @@
             "alcDegree": 10,
             "alcMade": "제주와이너리",
             "additional": {
-                "area": "제주"
+                "area": "제주",
+                "siteLink": "https://smartstore.naver.com/jejuwinery/products/2963760231",
+                "officialTag": ["#제주산 감귤", "#신맛", "#단맛", "#쌉싸름", "#감귤맛"]
             },
             "review": {
                 "again": true
