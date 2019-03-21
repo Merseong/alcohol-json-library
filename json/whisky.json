@@ -1,0 +1,29 @@
+{
+    "$schema": "../schema.json",
+    "category": "whisky",
+    "alcList": [
+        {
+            "classification": "",
+            "alcName": "이백 위스키",
+            "alcDegree": -1,
+            "alcMade": "이백양조장",
+            "additional": {},
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "Single Malt",
+            "alcName": "Glenfiddich 18",
+            "alcDegree": 40,
+            "alcMade": "",
+            "additional": {
+                "year": 18,
+                "krName": "글렌피딕 18"
+            },
+            "review": {
+                "again": true
+            }
+        }
+    ]
+}

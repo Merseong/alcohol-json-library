@@ -81,6 +81,30 @@
             "review": {
                 "again": false
             }
+        },
+        {
+            "classification": "과하주",
+            "alcName": "술아 매화주",
+            "alcDegree": 15,
+            "alcMade": "술아원",
+            "additional": {
+                "siteLink": "https://soolawon.modoo.at/?link=derrd930",
+                "officialTag": ["#은은한", "#달콤하고"],
+                "area": "경기도 여주"
+            },
+            "review": {}
+        },
+        {
+            "classification": "과하주",
+            "alcName": "술아 순곡주",
+            "alcDegree": 20,
+            "alcMade": "술아원",
+            "additional": {
+                "siteLink": "https://soolawon.modoo.at/?link=10rkas8o",
+                "officialTag": ["#순수한", "#깨끗한"],
+                "area": "경기도 여주"
+            },
+            "review": {}
         }
     ]
 }
