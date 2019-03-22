@@ -67,7 +67,7 @@
               }, 
               "year":
               {
-                "description":"year when alc is bottled or how years old", 
+                "description":"year when alc is bottled", 
                 "type":"integer"
               }, 
               "officialTag":
@@ -80,6 +80,11 @@
               {
                 "description":"website link for this alcohol",
                 "type":"string"
+              },
+              "vintage":
+              {
+                "description":"property to show vintage of wine",
+                "type":"number"
               }
             }
           }, 

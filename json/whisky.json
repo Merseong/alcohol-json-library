@@ -24,6 +24,20 @@
             "review": {
                 "again": true
             }
+        },
+        {
+            "classification": "Blended Scotch",
+            "alcName": "Ballantine's 21",
+            "alcDegree": -1,
+            "alcMade": "",
+            "additional": {
+                "area": "Scotland",
+                "krName": "발렌타인 21",
+                "year": 21
+            },
+            "review": {
+                "again": true  
+            }
         }
     ]
 }

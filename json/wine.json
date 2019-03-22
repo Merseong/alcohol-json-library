@@ -1,0 +1,32 @@
+{
+    "$schema": "../schema.json",
+    "category": "wine",
+    "alcList": [
+        {
+            "classification": "Chardonnay",
+            "alcName": "G7 Chardonnay",
+            "alcDegree": 13.5,
+            "alcMade": "Loncomila Valley",
+            "additional": {
+                "area": "Chile",
+                "krName": "G7 샤도네이",
+                "vintage": 2017,
+                "price": 6900
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "Moscato",
+            "alcName": "BALBI SOPRANI Moscato d'Asti",
+            "alcDegree": 5.5,
+            "alcMade": "",
+            "additional": {
+                "krName": "발비 소프라니 모스까토 다스티",
+                "vintage": 2017,
+                "area": "Italia"
+            }
+        }
+    ]
+}

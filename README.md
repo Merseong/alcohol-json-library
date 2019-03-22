@@ -38,7 +38,8 @@ Made by 머성
                 "krName": (string 외국 술일 경우 한글이름),
                 "year": (int 병입연도 / 몇년산),
                 "officialTag": [(string 실제 공식적으로 언급된 술을 소개하는 단어 및 형용사들의 array / #으로 시작함)],
-                "siteLink": (string 이 술에 대한 설명이 있는 웹사이트의 주소)
+                "siteLink": (string 이 술에 대한 설명이 있는 웹사이트의 주소),
+                "vintage": (int 와인을 만들기 위해 포도를 수확한 해)
             },
             "review":{ (평가들의 평균값을 가져와서 저장해두는 곳)
                 "score": (int 적당한 점수 / max min 없음),
