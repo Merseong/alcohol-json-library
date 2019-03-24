@@ -14,7 +14,7 @@
         },
         {
             "classification": "Single Malt",
-            "alcName": "Glenfiddich 18",
+            "alcName": "Glenfiddich",
             "alcDegree": 40,
             "alcMade": "",
             "additional": {
@@ -27,9 +27,9 @@
         },
         {
             "classification": "Blended Scotch",
-            "alcName": "Ballantine's 21",
+            "alcName": "Ballantine's",
             "alcDegree": -1,
-            "alcMade": "",
+            "alcMade": "George Ballantine & Son",
             "additional": {
                 "area": "Scotland",
                 "krName": "발렌타인 21",
@@ -37,6 +37,29 @@
             },
             "review": {
                 "again": true  
+            }
+        },
+        {
+            "classification": "Blended Scotch",
+            "alcName": "Imperial",
+            "alcDegree": -1,
+            "alcMade": "",
+            "additional": {
+                "area": "Scotland",
+                "year": 12,
+                "krName": "임페리얼 12"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Blended Scotch",
+            "alcName": "Johnnie Walker Black Label",
+            "alcDegree": 40,
+            "alcMade": "John Walker & Sons",
+            "additional": {
+                "area": "Scotland",
+                "year": 12,
+                "krName": "블랙라벨 12"
             }
         }
     ]
