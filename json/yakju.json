@@ -107,6 +107,20 @@
                 "area": "경기도 여주"
             },
             "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "면천두견주",
+            "alcDegree": 18,
+            "alcMade": "면천두견주보존회",
+            "additional": {
+                "siteLink": "http://www.xn--l89ax8lzofhzqrie.xn--3e0b707e/bbs/board.php?bo_table=21",
+                "officialTag": ["#부드럽고", "#감칠맛", "#진달래꽃"],
+                "area": "충남 당진"
+            },
+            "review": {
+                "again": true
+            }
         }
     ]
 }

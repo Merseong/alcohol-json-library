@@ -26,6 +26,24 @@
                 "krName": "발비 소프라니 모스까토 다스티",
                 "vintage": 2017,
                 "area": "Italia"
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "Syrah",
+            "alcName": "POWERS Syrah",
+            "alcDegree": -1,
+            "alcMade": "Powers Winery",
+            "additional": {
+                "krName": "파워스 쉬라",
+                "siteLink": "https://www.badgermtnvineyard.com/powers/powers_wines.html",
+                "vintage": 2013,
+                "area": "Columbia Vally, US"
+            },
+            "review": {
+                "again": true
             }
         }
     ]

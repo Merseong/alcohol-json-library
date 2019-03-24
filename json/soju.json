@@ -1,0 +1,59 @@
+{
+    "$schema": "../schema.json",
+    "category": "soju",
+    "alcList": [
+        {
+            "classification": "증류식",
+            "alcName": "삼해소주",
+            "alcDegree": 45,
+            "alcMade": "삼해소주가",
+            "additional": {
+                "area": "서울 종로",
+                "siteLink": "https://www.facebook.com/%EC%82%BC%ED%95%B4%EC%86%8C%EC%A3%BC-290562214683506/?ref=py_c"
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "희석식",
+            "alcName": "처음처럼",
+            "alcDegree": 17,
+            "alcMade": "롯데주류",
+            "additional": {
+                "siteLink": "http://www.lotteliquor.com/brand/soju01.asp",
+                "officialTag": ["#부드러운"]
+            },
+            "review": {
+                "again": false
+            }
+        },
+        {
+            "classification": "증류식",
+            "alcName": "풍정사계 동",
+            "alcDegree": 42,
+            "alcMade": "화양",
+            "additional": {
+                "siteLink": "http://hwayang.co/main/html.php?htmid=service/pungjeongsagye.html",
+                "officialTag": ["#아침 이슬같은", "#누룩 향과", "#부드럽고", "#깨끗한", "#인생의 쓴 맛을 아시는 분을 위한"]
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "증류식",
+            "alcName": "서울의 밤 PLUM SPIRITS",
+            "alcDegree": 25,
+            "alcMade": "더한주류",
+            "additional": {
+                "area": "서울 은평",
+                "siteLink": "https://ko-kr.facebook.com/thehan.kr/",
+                "officialTag": ["#풍부한 과실 향"]
+            },
+            "review": {
+                "again": true
+            }
+        }
+    ]
+}
