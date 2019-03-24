@@ -1,0 +1,29 @@
+{
+    "$schema": "../schema.json",
+    "category": "beer",
+    "alcList": [
+        {
+            "classification": "Lager",
+            "alcName": "Singha Premium Import",
+            "alcDegree": -1,
+            "alcMade": "",
+            "additional": {
+                "area": "Thailand",
+                "krName": "싱하"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Stout",
+            "alcName": "Guinness Original",
+            "alcDegree": 4.2,
+            "alcMade": "",
+            "additional": {
+                "area": "Ireland",
+                "siteLink": "https://www.guinness.com/ko-kr/%EC%A0%80%ED%9D%AC-%EB%A7%A5%EC%A3%BC/%EC%A0%80%ED%9D%AC-%EB%A7%A5%EC%A3%BC%EA%B8%B0%EB%84%A4%EC%8A%A4-original/",
+                "krName": "기네스 오리지널",
+                "officialTag": ["#강렬한", "#선명한 보리의 자취", "#쌉싸름한", "#단맛", "#풍미"]
+            }
+        }
+    ]
+}
