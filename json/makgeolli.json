@@ -181,6 +181,30 @@
             "review": {
                 "again": true
             }
+        },
+        {
+            "classification": "살균",
+            "alcName": "월매 쌀막걸리",
+            "alcDegree": 6,
+            "alcMade": "서울탁주",
+            "additional": {
+                "siteLink": "http://www.koreawine.co.kr/2011/c1/page3.php"
+            },
+            "review": {
+                "again": false
+            }
+        },
+        {
+            "classification": "생",
+            "alcName": "부여 알밤 생주",
+            "alcDegree": 6,
+            "alcMade": "백제원주조",
+            "additional": {
+                "area": "충남 부여"
+            },
+            "review": {
+                "again": true
+            }
         }
     ]
 }

@@ -45,6 +45,64 @@
             "review": {
                 "again": true
             }
+        },
+        {
+            "classification": "Chardonnay",
+            "alcName": "Frontera Chardonnay",
+            "alcDegree": 13,
+            "alcMade": "",
+            "additional": {
+                "area": "Chile",
+                "krName": "프론테라 샤도네이",
+                "vintage": 2016
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "",
+            "alcName": "La Croisade Reserve Caberent Syrah",
+            "alcDegree": -1,
+            "alcMade": "",
+            "additional": {
+                "area": "France",
+                "krName": "라 크라사드 카버네 시라",
+                "vintage": 2016
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "Chardonnay",
+            "alcName": "Nottage Hill Chardonnay",
+            "alcDegree": 13.5,
+            "alcMade": "Hardys",
+            "additional": {
+                "vintage": 2016,
+                "area": "Australia",
+                "krName": "놋테이지 힐 샤도네이",
+                "siteLink": "http://www.hardyswines.com/as/wines/range/nottage-hill/nottage-hill-chardonnay/"
+            },
+            "review": {
+                "again": true
+            }
+        },
+        {
+            "classification": "Chardonnay",
+            "alcName": "Legend of Chile Chardonnay",
+            "alcDegree": 13.5,
+            "alcMade": "",
+            "additional": {
+                "vintage": 2017,
+                "area": "Chile",
+                "krName": "L와인 샤도네이",
+                "siteLink": "http://wine.co.kr/wine/589"
+            },
+            "review": {
+                "again": false
+            }
         }
     ]
 }
