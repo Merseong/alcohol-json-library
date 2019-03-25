@@ -15,7 +15,7 @@
                 "area": "울산"
             },
             "review":{
-                "again":true
+                "again":5
             }
         }, 
         {
@@ -30,7 +30,7 @@
                 "officialTag": ["#전통 방식", "#자연산 누룩", "#은은한", "#구수한", "#대한민국 민속주 1호"]
             },
             "review":{
-                "again":true
+                "again":5
             }       
         },
         {
@@ -44,7 +44,7 @@
                 "siteLink": "https://smartstore.naver.com/dogar/products/3645168401"
             },
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -58,7 +58,7 @@
                 "price": 20000
             },
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -68,7 +68,7 @@
             "alcMade":"이백양조장",
             "additional": {},
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -82,7 +82,7 @@
                 "officialTag": ["#전통 방식", "#찹쌀"]
             },
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -96,7 +96,7 @@
                 "price": 9900
             },
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -109,7 +109,7 @@
                 "siteLink": "http://ehwaju.com/"
             },
             "review":{
-                "again":true
+                "again":5
             }  
         },
         {
@@ -123,7 +123,7 @@
                 "officialTag": ["#아스파탐 無", "#시간의 흐름", "#다양한 맛", "#부드러운 단맛과 목넘김", "#풍성한 과실향", "#산미"]
             },
             "review":{
-                "again":true
+                "again":5
             }
         },
         {
@@ -137,7 +137,7 @@
                 "area": "경기도 양평"
             },
             "review":{
-                "again":false
+                "again":0
             }
         },
         {
@@ -151,7 +151,7 @@
                 "officialTag": ["#붉은색", "#무첨가", "#단맛", "#바디감"]
             },
             "review":{
-                "again":false   
+                "again":0   
             }
         },
         {
@@ -165,7 +165,7 @@
                 "officialTag": ["#붉은색", "#무첨가", "#청량감", "#단맛", "#바디감"]
             },
             "review":{
-                "again":true   
+                "again":5   
             }
         },
         {
@@ -179,7 +179,7 @@
                 "officialTag": ["#제주산 감귤", "#신맛", "#단맛", "#쌉싸름", "#감귤맛"]
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -191,7 +191,7 @@
                 "siteLink": "http://www.koreawine.co.kr/2011/c1/page3.php"
             },
             "review": {
-                "again": false
+                "again": 0
             }
         },
         {
@@ -203,7 +203,7 @@
                 "area": "충남 부여"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         }
     ]

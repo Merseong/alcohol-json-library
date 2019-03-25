@@ -12,7 +12,7 @@
                 "siteLink": "https://www.facebook.com/%EC%82%BC%ED%95%B4%EC%86%8C%EC%A3%BC-290562214683506/?ref=py_c"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -25,7 +25,7 @@
                 "officialTag": ["#부드러운"]
             },
             "review": {
-                "again": false
+                "again": 0
             }
         },
         {
@@ -38,7 +38,7 @@
                 "officialTag": ["#아침 이슬같은", "#누룩 향과", "#부드럽고", "#깨끗한", "#인생의 쓴 맛을 아시는 분을 위한"]
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -52,7 +52,7 @@
                 "officialTag": ["#풍부한 과실 향"]
             },
             "review": {
-                "again": true
+                "again": 5
             }
         }
     ]

@@ -9,7 +9,7 @@
             "alcMade": "이백양조장",
             "additional": {},
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -22,7 +22,7 @@
                 "krName": "글렌피딕 18"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -36,7 +36,7 @@
                 "year": 21
             },
             "review": {
-                "again": true  
+                "again": 5  
             }
         },
         {

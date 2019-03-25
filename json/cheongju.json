@@ -10,7 +10,7 @@
             "alcMade": "롯데주류",
             "additional": {},
             "review": {
-                "again": false
+                "again": 0
             }
         },
         {
@@ -20,7 +20,7 @@
             "alcMade": "롯데주류",
             "additional": {},
             "review": {
-                "again": false
+                "again": 0
             }
         },
         {

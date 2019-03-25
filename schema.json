@@ -110,7 +110,9 @@
               "again":
               {
                 "description":"do you want to drink this alcohol again", 
-                "type":"boolean"
+                "type":"number",
+                "minimum":0,
+                "maximum":5
               }, 
               "userTag":
               {

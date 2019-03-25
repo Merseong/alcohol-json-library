@@ -14,7 +14,7 @@
                 "price": 6900
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -28,7 +28,7 @@
                 "area": "Italia"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -43,7 +43,7 @@
                 "area": "Columbia Vally, US"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -57,7 +57,7 @@
                 "vintage": 2016
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -71,7 +71,7 @@
                 "vintage": 2016
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -86,7 +86,7 @@
                 "siteLink": "http://www.hardyswines.com/as/wines/range/nottage-hill/nottage-hill-chardonnay/"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -101,7 +101,7 @@
                 "siteLink": "http://wine.co.kr/wine/589"
             },
             "review": {
-                "again": false
+                "again": 0
             }
         },
         {
@@ -126,7 +126,7 @@
                 "krName": "산타리타 120 샤도네이"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -140,7 +140,7 @@
                 "krName": "산타리타 120 멜롯"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
@@ -154,7 +154,7 @@
                 "krName": "몬테스 클래식 샤도네이"
             },
             "review": {
-                "again": true
+                "again": 5
             }
         },
         {
