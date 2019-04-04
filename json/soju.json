@@ -54,6 +54,29 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "희석식",
+            "alcName": "참이슬 fresh",
+            "alcDegree": 17,
+            "alcMade": "하이트진로",
+            "additional": {
+                "siteLink": "http://www.hitejinro.com/brand/view.asp?brandcd2=B01",
+                "officialTag": ["#깨끗한"]
+            },
+            "review": {
+                "again": 0
+            }
+        },
+        {
+            "classification": "희석식",
+            "alcName": "푸른밤 긴밤",
+            "alcDegree": -1,
+            "alcMade": "",
+            "additional": {
+                "area": "제주도"
+            },
+            "review": {}
         }
     ]
 }

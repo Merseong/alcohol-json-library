@@ -27,6 +27,47 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Cass Fresh",
+            "alcDegree": 4.5,
+            "alcMade": "오비맥주",
+            "additional": {
+                "krName": "카스 후레쉬",
+                "siteLink": "https://cass.co.kr/freshtaste/taste_fresh.asp",
+                "officialTag": ["#신선하고", "#톡쏘는"]
+            },
+            "review": {
+                "again": 0
+            }
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Cass Light",
+            "alcDegree": 4,
+            "alcMade": "오비맥주",
+            "additional": {
+                "krName": "카스 라이트",
+                "siteLink": "https://cass.co.kr/freshtaste/taste_light.asp",
+                "officialTag": ["#가벼움", "#칼로리는 1/3"]
+            },
+            "review": {
+                "again": 0
+            }
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Pilsner Urquell",
+            "alcDegree": 4.4,
+            "alcMade": "Plzeňský prazdroj a.s.",
+            "additional": {
+                "area": "Czech",
+                "krName": "필스너 우르켈"
+            },
+            "review": {
+                "again": 5
+            }
         }
     ]
 }

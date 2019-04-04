@@ -205,6 +205,28 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "살균",
+            "alcName": "우도땅콩전통주",
+            "alcDegree": 6,
+            "alcMade": "조은술세종",
+            "additional": {
+                "area": "충북 청주",
+                "siteLink": "https://www.joeunsulsj.co.kr:5009/sub.php?code=02_prod010101&mode=view&no=35&cate1=&page=1",
+                "officialTag": ["#고소한"]
+            },
+            "review": {}
+        },
+        {
+            "classification": "생",
+            "alcName": "수제잣 가평막걸리",
+            "alcDegree": 6,
+            "alcMade": "우리술",
+            "additional": {
+                "area": "경기 가평"
+            },
+            "review": {}
         }
     ]
 }
