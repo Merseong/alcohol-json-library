@@ -227,6 +227,48 @@
                 "area": "경기 가평"
             },
             "review": {}
+        },
+        {
+            "classification": "생",
+            "alcName": "이백 생막걸리",
+            "alcDegree": 16,
+            "alcMade": "이백양조장",
+            "additional": {},
+            "review": {
+                "again": 5
+            }
+        },
+        {
+            "classification": "",
+            "alcName": "검은콩 막걸리",
+            "alcDegree": 6,
+            "alcMade": "대강양조장",
+            "additional":{
+                "siteLink": "http://www.krwine.com/product.html"
+            },
+            "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "이화주",
+            "alcDegree": 8,
+            "alcMade": "술샘",
+            "additional": {
+                "siteLink": "http://sulseam.co.kr/goods/view?no=1",
+                "officialTag": ["#독특하고", "#이색적인", "#쫀득쫀득한", "#특유의 맛", "#떠먹는"]
+            },
+            "review": {}
+        },
+        {
+            "classification": "생",
+            "alcName": "송명섭 막걸리",
+            "alcDegree": 6,
+            "alcMade": "태인양조장",
+            "additional": {
+                "siteLink": "http://www.xn--og5bv8a5dl6a612a.com/sub03/sub02.php",
+                "officialTag": ["#시큼털털하면서", "#걸쭉한", "#본연의"]
+            },
+            "review": {}
         }
     ]
 }

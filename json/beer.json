@@ -68,6 +68,17 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification":"",
+            "alcName": "STELLA ARTOIS",
+            "alcDegree": 5.2,
+            "alcMade": "",
+            "additional": {
+                "krName": "스텔라 아르투아",
+                "siteLink": "https://www.stellaartois.com/"
+            },
+            "review": {}
         }
     ]
 }

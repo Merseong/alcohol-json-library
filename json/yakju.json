@@ -121,6 +121,28 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "과하주",
+            "alcName": "이백 과하주",
+            "alcDegree": 19,
+            "alcMade": "이백양조장",
+            "additional": {
+            },
+            "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "청명주",
+            "alcDegree": 17,
+            "alcMade": "중원당",
+            "additional": {
+                "siteLink": "http://xn--v42bo8x7wc.com/goods/catalog?code=0002",
+                "officialTag": ["#그윽한", "#독특한 감칠맛"]
+            },
+            "review": {
+                "again": 5
+            }
         }
     ]
 }

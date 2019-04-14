@@ -214,6 +214,28 @@
                 "area": "Australia"
             },
             "review": {}
+        },
+        {
+            "classification": "Syrah",
+            "alcName": "Quayside Shiraz",
+            "alcDegree": -1,
+            "alcMade": "Hardys",
+            "additional": {
+                "vintage": 2016
+            },
+            "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "여포의 꿈 (화이트)",
+            "alcDegree": 12,
+            "alcMade": "여포 와인 농장",
+            "additional": {
+                "siteLink": "http://www.yeo4.net/shop/shopdetail.html?branduid=938514&xcode=005&mcode=001&scode=&type=X&sort=regdate&cur_code=005&GfDT=bm1%2BW18%3D"
+            },
+            "review": {
+                "again": 5
+            }
         }
     ]
 }

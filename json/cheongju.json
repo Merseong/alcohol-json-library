@@ -33,6 +33,14 @@
                 "krName": "오케바리"
             },
             "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "이백 청주",
+            "alcDegree": 13,
+            "alcMade": "이백양조장",
+            "additional": {},
+            "review": {}
         }
     ]
 }
