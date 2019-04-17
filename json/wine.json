@@ -64,7 +64,7 @@
             "classification": "",
             "alcName": "La Croisade Reserve Caberent Syrah",
             "alcDegree": -1,
-            "alcMade": "",
+            "alcMade": "La Croisade",
             "additional": {
                 "area": "France",
                 "krName": "라 크라사드 카버네 시라",
@@ -224,9 +224,9 @@
                 "vintage": 2016
             },
             "review": {}
-        },
+        },  
         {
-            "classification": "",
+            "classification": "Moscato",
             "alcName": "여포의 꿈 (화이트)",
             "alcDegree": 12,
             "alcMade": "여포 와인 농장",

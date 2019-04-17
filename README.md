@@ -13,11 +13,13 @@ Made by 머성
 * beer - 맥주
 * makgeolli - 막걸리
 * yakju - 약주, 법주
-* cheongju - 청주, 사케
+* cheongju - 청주
+* sake - 일본의 사케
 * whisky - 위스키
 * non-whisky - 보드카, 진, 럼, 데낄라 등등
 * liqueur - 위 둘에 해당하지 않는 리큐르
-* wine - 와인
+* wine - 와인 (포도 only)
+* fruit-wine - 포도가 아닌 과실로 만든 와인 (과실주, 한국와인)
 
 ## json 작성 구조
 
