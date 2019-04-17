@@ -143,6 +143,18 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "매실",
+            "alcName": "매실원주",
+            "alcDegree": 13,
+            "alcMade": "더한주류",
+            "additional": {
+                "siteLink": "http://thehan.kr/"
+            },
+            "review": {
+                "again": 5
+            }
         }
     ]
 }
