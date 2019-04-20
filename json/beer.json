@@ -79,6 +79,14 @@
                 "siteLink": "https://www.stellaartois.com/"
             },
             "review": {}
+        },
+        {
+            "classification": "Ale",
+            "alcName": "버드나무 미노리 세션",
+            "alcDegree": 4.6,
+            "alcMade": "버드나무 브루어리",
+            "additional": {},
+            "review": {}
         }
     ]
 }

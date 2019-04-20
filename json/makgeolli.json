@@ -269,6 +269,19 @@
                 "officialTag": ["#시큼털털하면서", "#걸쭉한", "#본연의"]
             },
             "review": {}
+        },
+        {
+            "classification": "모주",
+            "alcName": "전주 모주",
+            "alcDegree": 1.5,
+            "alcMade": "전주주조",
+            "additional": {
+                "siteLink": "https://jjjujo.co.kr/%EC%A0%9C%ED%92%88%EC%86%8C%EA%B0%9C",
+                "officialTag": ["#웰빙", "#향기롭고", "#달콤하여", "#부담이 없는", "#계피", "#해장술"]
+            },
+            "review": {
+                "again": 5
+            }
         }
     ]
 }

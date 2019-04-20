@@ -121,6 +121,18 @@
                 "siteLink": "http://www.xn--og5bv8a5dl6a612a.com/sub03/sub01.php"
             },
             "review": {}
+        },
+        {
+            "classification": "희석식",
+            "alcName": "한라산 오리지널",
+            "alcDegree": -1,
+            "alcMade": "한라산소주",
+            "additional": {
+                "area": "제주도",
+                "siteLink": "http://www.hallasan.co.kr/pages.php?p=3_1_1_1",
+                "officialTag": ["#첫 느낌", "#부드럽고", "#깨끗한"]
+            },
+            "review": {}
         }
     ]
 }
