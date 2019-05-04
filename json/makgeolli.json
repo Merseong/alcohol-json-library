@@ -282,6 +282,16 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "생",
+            "alcName": "청명주",
+            "alcDegree": 12,
+            "alcMade": "중원당",
+            "additional": {},
+            "review": {
+                "again": 5
+            }
         }
     ]
 }
