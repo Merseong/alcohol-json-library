@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category":"makgeolli", 
+    "krCategory": "막걸리",
     "alcList":
     [
         {

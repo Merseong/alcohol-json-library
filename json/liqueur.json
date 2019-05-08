@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "liqueur",
+    "krCategory": "리큐르",
     "alcList": [
         {
             "classification": "Triple Sec",

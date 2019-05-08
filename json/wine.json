@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "wine",
+    "krCategory": "와인",
     "alcList": [
         {
             "classification": "Chardonnay",

@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "yakju",
+    "krCategory": "약주",
     "alcList":
     [
         {

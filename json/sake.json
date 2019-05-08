@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "sake",
+    "krCategory": "일본주/사케",
     "alcList": [
         {
             "classification": "쥰마이 다이긴죠",

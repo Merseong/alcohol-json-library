@@ -9,6 +9,11 @@
       "description":"large category of alcohol", 
       "type":"string"
     }, 
+    "krCategory":
+    {
+      "description":"korean name of category", 
+      "type":"string"
+    }, 
     "alcList":
     {
       "type":"array", 

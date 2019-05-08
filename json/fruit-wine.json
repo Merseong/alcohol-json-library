@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "fruit-wine",
+    "krCategory": "과실주",
     "alcList": [
         {
         }

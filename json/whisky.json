@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "whisky",
+    "krCategory": "위스키",
     "alcList": [
         {
             "classification": "",

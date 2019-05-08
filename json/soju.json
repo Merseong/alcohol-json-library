@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "soju",
+    "krCategory": "소주",
     "alcList": [
         {
             "classification": "증류식",

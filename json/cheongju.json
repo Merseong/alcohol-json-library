@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "cheongju",
+    "krCategory": "청주",
     "alcList":
     [
         {

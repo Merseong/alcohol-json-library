@@ -1,6 +1,7 @@
 {
     "$schema": "../schema.json",
     "category": "beer",
+    "krCategory": "맥주",
     "alcList": [
         {
             "classification": "Lager",
