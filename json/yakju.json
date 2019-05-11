@@ -33,7 +33,7 @@
             "alcMade": "제주샘",
             "additional": {
                 "siteLink": "http://jejusaemju.co.kr/891764802",
-                "officialTag": ["#감귤의 향과 "],
+                "officialTag": ["#감귤의 향과"],
                 "price": 11160,
                 "area": "제주"
             },
@@ -156,6 +156,17 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "",
+            "alcName": "궁중술 왕주",
+            "alcDegree": 13,
+            "alcMade": "민속주왕주",
+            "additional": {
+                "siteLink": "http://www.kingwine.net/index.html",
+                "officialTag": ["#은은한", "#향긋하고", "#감칠맛"]
+            },
+            "review": {}
         }
     ]
 }

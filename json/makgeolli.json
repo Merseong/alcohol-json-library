@@ -293,6 +293,16 @@
             "review": {
                 "again": 5
             }
+        },
+        {
+            "classification": "생",
+            "alcName": "시인의 마을",
+            "alcDegree": 10,
+            "alcMade": "이원양조장",
+            "additional": {
+                "siteLink": "http://www.iwonwine.com/new/bbs/board.php?bo_table=gallery&wr_id=17"
+            },
+            "review": {}
         }
     ]
 }

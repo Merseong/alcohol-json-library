@@ -134,6 +134,16 @@
                 "officialTag": ["#첫 느낌", "#부드럽고", "#깨끗한"]
             },
             "review": {}
+        },
+        {
+            "classification": "안동",
+            "alcName": "명인안동소주",
+            "alcDegree": 45,
+            "alcMade": "박재서 명인",
+            "additional": {
+                "siteLink": "http://www.andongsojumall.com/main.htm"
+            },
+            "review": {}
         }
     ]
 }

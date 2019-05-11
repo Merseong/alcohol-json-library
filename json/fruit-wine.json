@@ -4,6 +4,12 @@
     "krCategory": "과실주",
     "alcList": [
         {
+            "classification": "복숭아",
+            "alcName": "고도리 복숭아와인",
+            "alcDegree": 6.5,
+            "alcMade": "고도리와이너리",
+            "additional": {},
+            "review": {}
         }
     ]
 }
