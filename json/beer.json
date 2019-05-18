@@ -58,7 +58,7 @@
             }
         },
         {
-            "classification": "Lager",
+            "classification": "Pilsner",
             "alcName": "Pilsner Urquell",
             "alcDegree": 4.4,
             "alcMade": "Plzeňský prazdroj a.s.",
@@ -87,6 +87,107 @@
             "alcDegree": 4.6,
             "alcMade": "버드나무 브루어리",
             "additional": {},
+            "review": {}
+        },
+        {
+            "classification": "Ale",
+            "alcName": "제주위트에일",
+            "alcDegree": 5.3,
+            "alcMade": "제주맥주 주식회사",
+            "additional": {
+                "siteLink": "https://jejubeer.co.kr/beer/",
+                "officialTag": ["#부드러움", "#밀맥주", "#감귤껍질의 은은한", "#산뜻한 끝맛"]
+            },
+            "review": {}
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Suntory the Premium Malt's",
+            "alcDegree": -1,
+            "alcMade": "Suntory Liquors Limited",
+            "additional": {
+                "siteLink": "https://www.suntory.com/beer/premium/kr/",
+                "officialTag": ["#화려한 향", "#깊은 풍미"],
+                "krName": "산토리 프리미엄 몰츠",
+                "area": "Japan"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Asahi Prime Rich",
+            "alcDegree": -1,
+            "alcMade": "Ashahi Brewery",
+            "additional": {
+                "area": "Japan"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Dark Lager",
+            "alcName": "Kozel Dark",
+            "alcDegree": 3.8,
+            "alcMade": "",
+            "additional": {
+                "area": "Czech",
+                "krName": "코젤 다크"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Lager",
+            "alcName": "Harbin",
+            "alcDegree": -1,
+            "alcMade": "Harbin Brewery",
+            "additional": {
+                "area": "China",
+                "krName": "하얼빈"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Ale",
+            "alcName": "1664 Blanc",
+            "alcDegree": -1,
+            "alcMade": "Brasseries Kronenbourg",
+            "additional": {
+                "area": "France",
+                "krName": "블랑"
+            },
+            "review": {}
+        },
+        {
+            "classification": "Ale",
+            "alcName": "Hoegaarden Original",
+            "alcDegree": -1,
+            "alcMade": "Brouwerij Hoegaarden",
+            "additional": {
+                "krName": "호가든"
+            },
+            "review": {}
+        },
+        {
+            "classification": "발포주",
+            "alcName": "FiLite Fresh",
+            "alcDegree": 4.5,
+            "alcMade": "하이트진로",
+            "additional": {
+                "krName": "필라이트",
+                "siteLink": "https://www.hitejinro.com/brand/view.asp?brandcd2=E08",
+                "officialTag": ["#가성비", "#깨끗하고" ,"#깔끔한", "#상쾌함"]
+            },
+            "review": {}
+        },
+        {
+            "classification": "Lager",
+            "alcName": "TERRA",
+            "alcDegree": 4.6,
+            "alcMade": "하이트진로",
+            "additional": {
+                "siteLink": "https://www.hitejinro.com/",
+                "krName": "테라",
+                "officialTag": ["#거품은 조밀하고", "#탄산은 오래", "#청량감"]
+            },
             "review": {}
         }
     ]

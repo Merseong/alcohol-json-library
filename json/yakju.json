@@ -167,6 +167,17 @@
                 "officialTag": ["#은은한", "#향긋하고", "#감칠맛"]
             },
             "review": {}
+        },
+        {
+            "classification": "",
+            "alcName": "솔송주",
+            "alcDegree": 13,
+            "alcMade": "명가원",
+            "additional": {
+                "siteLink": "https://mgwsolsongju.modoo.at/?link=d8g5gtq0",
+                "officialTag": ["#은은한", "#솔향", "#부드러움"]
+            },
+            "review": {}
         }
     ]
 }
