@@ -10,6 +10,24 @@
             "alcMade": "고도리와이너리",
             "additional": {},
             "review": {}
+        },
+        {
+            "classification": "딸기",
+            "alcName": "세인트하우스 딸기와인",
+            "alcDegree": 12,
+            "alcMade": "해미읍성딸기와인",
+            "additional": {},
+            "review": {}
+        },
+        {
+            "classification": "가시오가피",
+            "alcName": "세인트하우스 가시오가피와인",
+            "alcDegree": -1,
+            "alcMade": "해미읍성딸기와인",
+            "additional": {
+                "price": -1
+            },
+            "review": {}
         }
     ]
 }
